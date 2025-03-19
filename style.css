@@ -1,29 +1,4 @@
 body {
-  background-color: aquamarine;
+  background-color: rgb(0, 174, 255);
 }
-
-#identificador{
-  color: aquamarine;
-  background-color: black;
-  margin: 50px;
-  text-align: center;
-  font-size: large;
-}
-
-.classe{
-  background-color: blue;
-  color: green;
-  text-align: right;
-  padding: 30px;
-  font-size: 30px;
-}
-
-.texto{
-  color: deeppink;
-  line-height: 30px;
-  text-align: justify;
-  text-transform: uppercase;
-  font-weight: bold;
-  border: 1px solid gold;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
+  
